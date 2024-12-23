@@ -24,7 +24,7 @@ Perform data analysis and create a dynamic dahsboard which makes easy to underst
 
 ## Dashboard Sample
 
-[Dashboard_Screenshot](Dashboard Scrsht.jpg)
+[Dashboard_Screenshot](https://github.com/Harshb2004/BizInsights360/blob/master/Dashboard%20Scrsht.jpg)
 
 
 
