@@ -20,7 +20,7 @@ Perform data analysis and create a dynamic dahsboard which makes easy to underst
    - From How many countries and cities we have customer?
 
 ## Dashboard
-[Dashboard_View](Dashboard data.pbix)
+[Dashboard_View](https://github.com/Harshb2004/BizInsights360/blob/master/Dashboard%20data.pbix)
 
 ## Dashboard Sample
 
