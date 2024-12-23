@@ -8,4 +8,18 @@ Perform data analysis and create a dynamic dahsboard which makes easy to underst
 
 ## Dataset
 
-[datasets](classic_models_dataset)
+[Datasets](classic_models_dataset)
+
+## Tasks (KPIs)
+   - What is the total sales of every year?
+   - What is the total margin every year?
+   - Which is the most ordered product?
+   - Sales on the basis of product name?
+   - Total quantity ordered in a year?
+   - Which country has more customers?
+   - From How many countries and cities we have customer?
+
+## Dashboard Sample
+
+[Dashboard](
+
