@@ -19,7 +19,12 @@ Perform data analysis and create a dynamic dahsboard which makes easy to underst
    - Which country has more customers?
    - From How many countries and cities we have customer?
 
+## Dashboard
+[Dashboard](
+
 ## Dashboard Sample
 
-[Dashboard](
+[Dashboard_Screenshot](Dashboard Scrsht.jpg)
+
+
 
